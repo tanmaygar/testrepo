@@ -227,7 +227,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 
 .overly:before, .page-title:before, .slider:before, .cta:before, .hero-img:before {
   content: "";
-  position: absolute;
+  position: relative;
   left: 0;
   top: 0;
   bottom: 0;
