@@ -529,7 +529,7 @@ ul.dropdown-menu li {
 
 .slider {
   background: url("../layer1.png") no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: 20% 0%;
   padding: 200px 0 400px 0;
   position: relative;
