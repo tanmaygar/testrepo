@@ -322,6 +322,17 @@ a:focus {
   padding: 70px 0;
 }
 
+#title1 {
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+#text3 {
+  font-family: Montserrat;
+  font-size: 14px;
+}
+
 #wrapper-work {
   overflow: hidden;
   padding-top: 100px;
@@ -530,7 +541,7 @@ ul.dropdown-menu li {
 .slider {
   background: url("../layer1.png") no-repeat;
   background-size: cover;
-  background-position: 20% 0%;
+  background-position: 50% 100%;
   padding: 200px 0 400px 0;
   position: relative;
 }
